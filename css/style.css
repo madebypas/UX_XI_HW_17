@@ -63,10 +63,10 @@ li a {text-decoration: none;}
 
 /* Body */
 
-body {font-family: 'Cormorant Garamond', serif;
+body {font-family: 'Avenir', sans-serif;
     font-size: 17px;
     color: white;
-    background-color:white;
+    background-color: floralwhite;
 }
 
 .heroImg {
@@ -103,6 +103,7 @@ footer {
 }
 #footer-text {
     margin: 10px 10px 10px 60px;
+    font-family: 'Avenir', sans-serif;
     text-align: center;
     
 }
